@@ -53,15 +53,18 @@ git clone <URL-de-tu-repositorio>
 cd <carpeta>
 
 2. (Opcional) Crear entorno virtual:
+
 python -m venv venv
+
 source venv/bin/activate   # Linux/Mac
+
 venv\Scripts\activate      # Windows
 
-3. Instalar dependencias:
+4. Instalar dependencias:
 pip install -r requirements.txt
 
 
-4. Ejecutar:
+5. Ejecutar:
 jupyter notebook dl_cnn.ipynb
 
 🎯 Objetivo del Proyecto
