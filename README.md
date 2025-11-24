@@ -1,4 +1,4 @@
-🧠 Clasificación de Imágenes con Redes Neuronales Convolucionales (CNN)
+# 🧠 Clasificación de Imágenes con Redes Neuronales Convolucionales (CNN)
 
 Notebook: dl_cnn.ipynb
 
