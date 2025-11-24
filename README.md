@@ -7,6 +7,7 @@ Notebook: dl_cnn.ipynb
 Este notebook implementa un flujo completo de Deep Learning para clasificación de imágenes, utilizando redes Fully Connected y Redes Neuronales Convolucionales (CNN). Incluye carga de datos, preprocesamiento, entrenamiento, evaluación con métricas y visualización de curvas de desempeño.
 
 📂 Contenidos del Notebook
+
 1️⃣ Carga y preparación de datos
 
 - Importación de los conjuntos cnn_train_X.npy, cnn_train_y.npy, cnn_test_X.npy, cnn_test_y.npy.
